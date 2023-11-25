@@ -1,0 +1,7 @@
+
+
+file:
+  uniq-separator: ';'
+  read-buffer: 8192
+  temp-dir: /opt/services
+  max-lines-per-file: 100000

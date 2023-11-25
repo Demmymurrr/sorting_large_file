@@ -1,0 +1,5 @@
+file:
+  uniq-separator: ';'
+  read-buffer: 8192
+  temp-dir: target
+  max-lines-per-file: 1000
