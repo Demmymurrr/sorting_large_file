@@ -1,4 +1,4 @@
-package ru.demmy;
+package ru.demmy.largefilesorting;
 
 import lombok.AllArgsConstructor;
 import lombok.extern.log4j.Log4j2;
@@ -9,8 +9,8 @@ import org.junit.jupiter.params.provider.MethodSource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.test.context.SpringBootTest;
-import ru.demmy.service.FileService;
-import ru.demmy.service.LargeFileSorter;
+import ru.demmy.largefilesorting.service.FileService;
+import ru.demmy.largefilesorting.service.LargeFileSorter;
 
 import java.io.IOException;
 import java.io.InputStream;

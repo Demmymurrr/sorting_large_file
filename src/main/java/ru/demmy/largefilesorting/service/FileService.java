@@ -1,4 +1,4 @@
-package ru.demmy.service;
+package ru.demmy.largefilesorting.service;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

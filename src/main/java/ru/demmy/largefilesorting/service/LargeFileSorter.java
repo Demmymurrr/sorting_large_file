@@ -1,4 +1,4 @@
-package ru.demmy.service;
+package ru.demmy.largefilesorting.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
